@@ -1,3 +1,3 @@
-# github-vxryxh
+# Triple C Landing Page
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-vxryxh)
+Work in Progress
